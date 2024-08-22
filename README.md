@@ -1,7 +1,7 @@
 # CS300
-Analysis and Design
-Professor: Oluwayomi Adamo
-Student: Jose Medina
+# Analysis and Design
+# Professor: Oluwayomi Adamo
+# Student: Jose Medina
 
 Throughout this course, I focused on designing and implementing a system to manage and process course information for a university's Computer Science department. The primary challenge was to efficiently read course data from a file, store it effectively, and provide functionalities to list courses in alphanumeric order and retrieve specific course details, including prerequisites. Tackling this problem required a deep understanding of various data structures, as their selection and implementation directly impacted the program’s performance. By exploring vectors, hash tables, and binary search trees (BST), I was able to assess the unique advantages each structure offered for different operations. This experience underscored the importance of making informed decisions about which data structures to use based on the specific needs of an application.
 
