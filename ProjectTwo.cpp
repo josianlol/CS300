@@ -1,3 +1,8 @@
+//CS300 Analysis and Design 
+//Professor: ProfessorOAdamo
+//Student: Jose Medina
+
+
 #include <iostream>   // Required for input/output operations
 #include <fstream>    // Required for file operations
 #include <sstream>    // Required for string stream operations
